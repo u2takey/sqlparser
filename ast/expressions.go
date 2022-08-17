@@ -21,9 +21,9 @@ import (
 	"strings"
 
 	"github.com/pingcap/errors"
-	"github.com/pingcap/parser/format"
-	"github.com/pingcap/parser/model"
-	"github.com/pingcap/parser/opcode"
+	"github.com/u2takey/sqlparser/format"
+	"github.com/u2takey/sqlparser/model"
+	"github.com/u2takey/sqlparser/opcode"
 )
 
 var (

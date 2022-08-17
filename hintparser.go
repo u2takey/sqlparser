@@ -21,8 +21,8 @@ import (
 	"math"
 	"strconv"
 
-	"github.com/pingcap/parser/ast"
-	"github.com/pingcap/parser/model"
+	"github.com/u2takey/sqlparser/ast"
+	"github.com/u2takey/sqlparser/model"
 )
 
 type yyhintSymType struct {

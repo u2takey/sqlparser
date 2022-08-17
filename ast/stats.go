@@ -15,8 +15,8 @@ package ast
 
 import (
 	"github.com/pingcap/errors"
-	"github.com/pingcap/parser/format"
-	"github.com/pingcap/parser/model"
+	"github.com/u2takey/sqlparser/format"
+	"github.com/u2takey/sqlparser/model"
 )
 
 var (

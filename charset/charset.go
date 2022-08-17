@@ -18,8 +18,8 @@ import (
 	"strings"
 
 	"github.com/pingcap/errors"
-	"github.com/pingcap/parser/mysql"
-	"github.com/pingcap/parser/terror"
+	"github.com/u2takey/sqlparser/mysql"
+	"github.com/u2takey/sqlparser/terror"
 )
 
 var (

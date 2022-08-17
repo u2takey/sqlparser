@@ -15,8 +15,8 @@ package ast_test
 
 import (
 	. "github.com/pingcap/check"
-	. "github.com/pingcap/parser/ast"
-	"github.com/pingcap/parser/format"
+	. "github.com/u2takey/sqlparser/ast"
+	"github.com/u2takey/sqlparser/format"
 )
 
 var _ = Suite(&testDDLSuite{})

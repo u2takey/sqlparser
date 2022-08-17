@@ -18,7 +18,7 @@ import (
 	"strings"
 
 	"github.com/pingcap/errors"
-	"github.com/pingcap/parser/format"
+	"github.com/u2takey/sqlparser/format"
 )
 
 func newInvalidModeErr(s string) error {

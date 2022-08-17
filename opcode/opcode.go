@@ -16,7 +16,7 @@ package opcode
 import (
 	"io"
 
-	"github.com/pingcap/parser/format"
+	"github.com/u2takey/sqlparser/format"
 )
 
 // Op is opcode type.

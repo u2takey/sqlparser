@@ -16,7 +16,7 @@ package auth
 import (
 	"fmt"
 
-	"github.com/pingcap/parser/format"
+	"github.com/u2takey/sqlparser/format"
 )
 
 // UserIdentity represents username and hostname.

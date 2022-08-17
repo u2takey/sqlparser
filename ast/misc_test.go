@@ -15,10 +15,10 @@ package ast_test
 
 import (
 	. "github.com/pingcap/check"
-	"github.com/pingcap/parser"
-	"github.com/pingcap/parser/ast"
-	"github.com/pingcap/parser/auth"
-	"github.com/pingcap/parser/mysql"
+	parser "github.com/u2takey/sqlparser"
+	"github.com/u2takey/sqlparser/ast"
+	"github.com/u2takey/sqlparser/auth"
+	"github.com/u2takey/sqlparser/mysql"
 )
 
 var _ = Suite(&testMiscSuite{})

@@ -20,9 +20,9 @@ import (
 	"time"
 
 	. "github.com/pingcap/check"
-	"github.com/pingcap/parser/mysql"
-	"github.com/pingcap/parser/types"
 	"github.com/stretchr/testify/assert"
+	"github.com/u2takey/sqlparser/mysql"
+	"github.com/u2takey/sqlparser/types"
 )
 
 func TestT(t *testing.T) {

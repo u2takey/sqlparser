@@ -14,7 +14,7 @@
 package ast
 
 import (
-	"github.com/pingcap/parser/format"
+	"github.com/u2takey/sqlparser/format"
 )
 
 var _ StmtNode = &IndexAdviseStmt{}

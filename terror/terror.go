@@ -22,7 +22,7 @@ import (
 
 	"github.com/pingcap/errors"
 	"github.com/pingcap/log"
-	"github.com/pingcap/parser/mysql"
+	"github.com/u2takey/sqlparser/mysql"
 	"go.uber.org/zap"
 )
 

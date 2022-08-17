@@ -15,13 +15,13 @@ package ast
 
 import (
 	"github.com/pingcap/errors"
-	"github.com/pingcap/parser/auth"
-	"github.com/pingcap/parser/format"
-	"github.com/pingcap/parser/model"
-	"github.com/pingcap/parser/mysql"
-	"github.com/pingcap/parser/terror"
-	"github.com/pingcap/parser/tidb"
-	"github.com/pingcap/parser/types"
+	"github.com/u2takey/sqlparser/auth"
+	"github.com/u2takey/sqlparser/format"
+	"github.com/u2takey/sqlparser/model"
+	"github.com/u2takey/sqlparser/mysql"
+	"github.com/u2takey/sqlparser/terror"
+	"github.com/u2takey/sqlparser/tidb"
+	"github.com/u2takey/sqlparser/types"
 )
 
 var (
